@@ -1,14 +1,26 @@
-layout_spectrum: 0.9755439481232315
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.09941532160155475
 color:
+  saturation: 0.953276
   brandStrength: 0.6489180256612599
-  lightness: 0.8840776975266635
-  saturation: 0.8474018983542919
-  rhythmicContrast: 0.8084297457244247
+  lightness: 0.8136413
   brandColors:
     - '#000000'
     - '#263248'
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
+  rhythmicContrast: 0.8084297
+layout_spectrum: 0.9755439481232315
 name: bigcahoona
